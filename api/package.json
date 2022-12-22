@@ -14,7 +14,7 @@
     "express-ip": "^1.0.3",
     "fast-sort": "^2.1.1",
     "geolib": "^3.2.1",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "neo4j-driver": "^1.7.6",
     "nodemailer": "^6.4.5",
     "sanitize-html": "^1.22.0",
